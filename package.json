@@ -10,7 +10,7 @@
   "main": "index.js",
   "dependencies": {
     "npm-registry-client": "~0.2.26",
-    "xtend": "~2.0.6"
+    "xtend": "^4.0.0"
   },
   "keywords": [
     "npm",
