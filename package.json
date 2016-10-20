@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/silent-npm-registry-client",
   "main": "index.js",
   "dependencies": {
-    "npm-registry-client": "^7.1.0",
+    "npm-registry-client": "^7.3.0",
     "xtend": "^4.0.0"
   },
   "keywords": [
