@@ -24,5 +24,8 @@
     "email": "mail@juliangruber.com",
     "url": "http://juliangruber.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "node example/simple.js"
+  }
 }
