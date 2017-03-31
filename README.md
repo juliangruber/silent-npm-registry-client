@@ -13,7 +13,7 @@ var os = require('os');
 
 var client = new RegClient({
   registry: 'http://registry.npmjs.org/',
-  cache: os.tmpDir() + '/' + Math.random().toString(16).slice(2)
+  cache: os.tmpdir() + '/' + Math.random().toString(16).slice(2)
 });
 
 client.get('/browserify', function (err, pkg) {
